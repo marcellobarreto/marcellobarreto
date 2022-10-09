@@ -1,4 +1,6 @@
 ## Ola eu sou o Marcello ! 
+Hi ! I'm Marcello, graduated in computer science in 2019, acting as a Jr. full-stack programmer. <br>
+always looking to expand my knowledge!
  <div>
   <a href="https://github.com/">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcellobarreto&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/></div>
