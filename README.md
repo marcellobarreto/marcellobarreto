@@ -3,7 +3,7 @@ Hi ! I'm Marcello, graduated in computer science in 2019, acting as a Jr. full-s
 always looking to expand my knowledge!
  <div>
   <a href="https://github.com/">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcellobarreto&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/></div>
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Barreto-React-Native" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img align="center" alt="Barreto-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
