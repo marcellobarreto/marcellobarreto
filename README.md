@@ -1,5 +1,5 @@
 ## Ola eu sou o Marcello ! 
-Hi ! I'm Marcello, graduated in computer science in 2019, acting as a Jr. full-stack programmer. <br>
+Hi ! I'm Marcello, graduated in computer science in 2019, acting as a Jr. full-stack developer. <br>
 always looking to expand my knowledge!
  <div>
   <a href="https://github.com/">
